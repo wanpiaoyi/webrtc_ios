@@ -1,0 +1,6 @@
+framework module QKWebRtc {
+  umbrella header "QKWebRtc.h"
+
+  export *
+  module * { export * }
+}
